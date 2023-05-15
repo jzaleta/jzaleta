@@ -12,13 +12,11 @@ I'm Javier, a 19-year-old med student and full stack web developer.
 
 ## Hobbies
 
-|  📋  | Hobbies       |
-|-----:|---------------|
-|     1|:computer: Tinkering with software engineering projects|
-|     2|:books: Reading awesome books|
-|     3|:video_game: Playing video games|
-|     5|:radio: Music and making Spotify playlists |
-|     6|:camera: Photography |
+- :computer: Tinkering with software engineering projects
+- :books: Reading awesome books
+- :video_game: Playing video games
+- :radio: Music and making Spotify playlists 
+- :camera: Photography 
 > ###### In no particular order...
   
 ![GitHub views](https://komarev.com/ghpvc/?username=jzaleta)
