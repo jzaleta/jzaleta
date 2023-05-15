@@ -2,10 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
 body {
-  font-family: "Space Grotesk", sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   background: #faf8f8;
   color: #0a0c08;
@@ -17,7 +17,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Space Grotesk", sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
   color: #0a0c08;
 }
 
