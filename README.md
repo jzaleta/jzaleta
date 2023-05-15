@@ -5,10 +5,12 @@
 
 I'm Javier, a 19-year-old med student and full stack web developer.
 
-<details>
-<summary>Hobbies:<br /><br /><b><em>↪️ (click to open)</em></b></summary>
+## Skills
+- Next, React, Astro, Tailwind 
+- HTML/CSS/JavaScript
+- Go, Python
 
-<br />
+## Hobbies
 
 |  📋  | Hobbies       |
 |-----:|---------------|
@@ -19,13 +21,6 @@ I'm Javier, a 19-year-old med student and full stack web developer.
 |     6|:camera: Photography |
 > ###### In no particular order...
   
-</details>
-
-## Skills
-- Next, React, Astro, Tailwind 
-- HTML/CSS/JavaScript
-- Go, Python
-
 ![GitHub views](https://komarev.com/ghpvc/?username=jzaleta)
 ![GitHub followers](https://img.shields.io/github/followers/jzaleta?style=social)
 
