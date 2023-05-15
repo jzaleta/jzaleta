@@ -1,9 +1,32 @@
-## 👋 Hey!
+## 👋 Hey! Welcome to my makerspace!
+###### ◕ ◡ ◕ っ
 
 > 🌐 [✦ Go to visit my website!](https://jzaleta.vercel.app/) 
 
 I'm Javier, a 19-year-old med student and full stack web developer.
 
+<details>
+<summary>Hobbies:<br /><br /><b><em>↪️ (click to open)</em></b></summary>
+
+<br />
+
+|  📋  | Hobbies       |
+|-----:|---------------|
+|     1|:computer: Tinkering with software engineering projects|
+|     2|:books: Reading awesome books|
+|     3|:video_game: Playing video games|
+|     5|:radio: Music and making Spotify playlists |
+|     6|:camera: Photography |
+> ###### In no particular order...
+  
+</details>
+
+## Skills
+- Next, React, Astro, Tailwind 
+- HTML/CSS/JavaScript
+- Go, Python
+
+![GitHub views](https://komarev.com/ghpvc/?username=jzaleta)
 ![GitHub followers](https://img.shields.io/github/followers/jzaleta?style=social)
 
 ---
