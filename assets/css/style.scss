@@ -6,12 +6,17 @@
 
 body {
   font-family: "Space Grotesk", sans-serif;
+  background: #0a0a0a;
 }
 
 a {
   color: hsl(0, 93%, 45%);
   font-weight: 400;
   text-decoration: none;
+}
+
+a:hover {
+  color: hsl(0, 93%, 45%);
 }
 
 blockquote {
