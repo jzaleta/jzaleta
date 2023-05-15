@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap");
+
+body {
+  font-family: "Space Grotesk", sans-serif;
+}
+
+a {
+  color: hsl(0, 93%, 45%);
+  font-weight: 400;
+  text-decoration: none;
+}
+
+blockquote {
+  border-left: 3px solid hsl(0, 93%, 45%);
+  margin: 0;
+  padding: 0 0 0 20px;
+  font-style: italic;
+}
