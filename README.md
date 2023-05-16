@@ -1,9 +1,15 @@
 ## 👋 Hey! Welcome to my makerspace!
+
+![Profile banner](assets/banner.png)
+
 ###### ◕ ◡ ◕ っ
 
 > 🌐 [✦ Go to visit my website!](https://jzaleta.vercel.app/) 
 
 I'm Javier, a 19-year-old med student and full stack web developer.
+
+![GitHub views](https://komarev.com/ghpvc/?username=jzaleta)
+![GitHub followers](https://img.shields.io/github/followers/jzaleta?style=social)
 
 ## Skills
 - Next, React, Astro, Tailwind 
@@ -17,11 +23,8 @@ I'm Javier, a 19-year-old med student and full stack web developer.
 - 🎮 Playing video games
 - 📻 Music and making Spotify playlists 
 - 📸 Photography 
-> ###### In no particular order...
+> ###### ^ In no particular order...
   
-![GitHub views](https://komarev.com/ghpvc/?username=jzaleta)
-![GitHub followers](https://img.shields.io/github/followers/jzaleta?style=social)
-
 ---
 
 [![An image of @j_cordz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/j_cordz)](https://holopin.io/@j_cordz)
