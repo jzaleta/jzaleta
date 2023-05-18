@@ -17,14 +17,15 @@ I'm Javier, a 19-year-old med student and full stack web developer.
 - Go, Python
 
 ## Hobbies
-
+In no particular order...
 - 💻 Tinkering with software engineering projects
 - 📕 Reading awesome books
 - 🎮 Playing video games
-- 📻 Music and making Spotify playlists 
 - 📸 Photography 
-> ###### ^ In no particular order...
-  
+- 📻 Music and making Spotify playlists 
+
+
+## Stats
 ---
 
 [![An image of @j_cordz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/j_cordz)](https://holopin.io/@j_cordz)
