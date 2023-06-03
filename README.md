@@ -11,6 +11,10 @@ I'm Javier, a 19-year-old med student and full stack web developer.
 ![GitHub views](https://komarev.com/ghpvc/?username=jzaleta)
 ![GitHub followers](https://img.shields.io/github/followers/jzaleta?style=social)
 
+<a href="https://github.com/jzaleta"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://scrapbook.hackclub.com/jzaleta"><img src="https://img.shields.io/badge/scrapbook-%23EC3750.svg?&style=for-the-badge&logo=hack-club&logoColor=white"></a>
+<a href="https://jzaleta.itch.io"><img src="https://img.shields.io/badge/itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white"></a>
+
 ## Skills
 - Next, React, Astro, Tailwind 
 - HTML/CSS/JavaScript
