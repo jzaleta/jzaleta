@@ -2,6 +2,8 @@
 
 ![Profile banner](assets/banner.png)
 
+## 📕 About
+
 ###### ◕ ◡ ◕ っ
 
 > 🌐 [✦ Go to visit my website!](https://jzaleta.vercel.app/) 
@@ -21,7 +23,7 @@ I'm Javier, a 19-year-old med student and full stack web developer.
 - React, Next, Astro, Tailwind 
 - Go, Python
 
-## 📚 💻 📸 Hobbies
+## 🤖 💻 📸 Hobbies
 In no particular order...
 - Tinkering with software engineering projects
 - Reading awesome books
@@ -29,11 +31,20 @@ In no particular order...
 - Photography 
 - Listening to music and making Spotify playlists 
 
-
 ## 📋 GitHub Stats and Activity
 
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzaleta&count_private=true&theme=onedark)      |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jzaleta&theme=onedark)
-:-------------------------:|:-------------------------:
+<table>
+<thead>
+  <tr>
+    <th>
+       <img src="https://github-readme-stats.vercel.app/api?username=jzaleta&count_private=true&theme=onedark" alt="Javier's GitHub stats">
+    </th>
+    <th>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jzaleta&count_private=true&theme=onedark" alt="Javier's GitHub streak">
+    </th>
+  </tr>
+</thead>
+</table>
 
 [![GitHub trophy](https://github-profile-trophy.vercel.app/?username=jzaleta&column=8&theme=gruvbox&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
