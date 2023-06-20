@@ -8,7 +8,7 @@
 
 > 🌐 [✦ Go to visit my website!](https://jzaleta.vercel.app/) 
 
-I'm Javier, a 19-year-old med student and full stack web developer.
+I'm Javier, a 19-year-old med student and self-taught software engineer from Mexico. I'm currently pursuing web and game development!
 
 ![GitHub views](https://komarev.com/ghpvc/?username=jzaleta)
 ![GitHub followers](https://img.shields.io/github/followers/jzaleta?style=social)
