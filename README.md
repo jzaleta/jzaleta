@@ -8,7 +8,9 @@
 
 > 🌐 [✦ Go to visit my website!](https://jzaleta.vercel.app/) 
 
-I'm Javier, a 19-year-old med student and self-taught software engineer from Mexico. I'm currently pursuing web and game development!
+**I'm Javier:**
+
+19 y/o 🇲🇽 Med Student 🩺 • Software Engineer 💻 • 🛠️ Dev & Maker of things • 📸 Photography enthusiast • 📚 Bookworm
 
 ![GitHub views](https://komarev.com/ghpvc/?username=jzaleta)
 ![GitHub followers](https://img.shields.io/github/followers/jzaleta?style=social)
@@ -18,6 +20,8 @@ I'm Javier, a 19-year-old med student and self-taught software engineer from Mex
 <a href="https://jzaleta.itch.io"><img src="https://img.shields.io/badge/itch.io-%23FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white"></a>
 
 ## 🛠️ Skills
+I'm currently pursuing web and game development!
+
 - HTML and CSS
 - JavaScript
 - React, Next, Astro, Tailwind 
