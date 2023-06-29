@@ -10,7 +10,7 @@
 
 **I'm Javier:**
 
-19 y/o 🇲🇽 Med Student 🩺 • Software Engineer 💻 • 🛠️ Dev & Maker of things • 📸 Photography enthusiast • 📚 Bookworm
+19 y/o 🇲🇽 Med Student 🩺 • Software Engineer 💻 • 🛠️ Dev & Maker of things • 📸 Photographer • 📚 Bookworm
 
 ![GitHub views](https://komarev.com/ghpvc/?username=jzaleta)
 ![GitHub followers](https://img.shields.io/github/followers/jzaleta?style=social)
