@@ -55,7 +55,7 @@ In no particular order...
 ![GitHub metrics](https://raw.githubusercontent.com/jzaleta/jzaleta-metrics/main/github-metrics.svg)
 
 ## 🏷️ Holopin Badges
-[![An image of @j_cordz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/j_cordz)](https://holopin.io/@j_cordz)
+[![An image of @jzaleta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/j_cordz)](https://holopin.io/@jzaleta)
 
 
 
